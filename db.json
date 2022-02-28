@@ -29,6 +29,26 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": "6a1af48c-6e5f-4056-8dc6-40b98f441533",
+      "category": "education",
+      "title": "Seminar",
+      "description": "Granularity Discussion",
+      "location": "Moscow",
+      "date": "01 March 2022",
+      "time": "4PM",
+      "organizer": "Timofey Samsonov"
+    },
+    {
+      "id": "c8519f59-7d93-4553-b9d0-51c053875b01",
+      "category": "housing",
+      "title": "House Clean",
+      "description": "As usual",
+      "location": "Ramenki",
+      "date": "28.02.2022",
+      "time": "18:00",
+      "organizer": "Timofey Samsonov"
     }
   ]
 }
