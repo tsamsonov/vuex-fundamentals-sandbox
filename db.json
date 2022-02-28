@@ -59,6 +59,16 @@
       "date": "28.02.2022",
       "time": "20:00",
       "organizer": "Timofey Samsonov"
+    },
+    {
+      "id": "dfd702a5-0f36-4689-be0c-f8605ada7aed",
+      "category": "nature",
+      "title": "Woodwalk",
+      "description": "Here now",
+      "location": "Park",
+      "date": "01.03.2022",
+      "time": "08 AM",
+      "organizer": "Timofey Samsonov"
     }
   ]
 }
