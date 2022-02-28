@@ -49,6 +49,16 @@
       "date": "28.02.2022",
       "time": "18:00",
       "organizer": "Timofey Samsonov"
+    },
+    {
+      "id": "90e711a4-7b91-403b-90a6-b654b3200239",
+      "category": "food",
+      "title": "Buy salt",
+      "description": "Go to Prodsklade",
+      "location": "Piccadilly",
+      "date": "28.02.2022",
+      "time": "20:00",
+      "organizer": "Timofey Samsonov"
     }
   ]
 }
